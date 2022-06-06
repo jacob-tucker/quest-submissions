@@ -13,3 +13,7 @@ pub let thing: String
 ```cadence
 WHAT IS UP ACADEMY!! WOOOOOOOO
 ```
+
+## Chapter 1 Day 2 Quests
+
+Fill them in here.
