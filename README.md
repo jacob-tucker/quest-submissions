@@ -3,3 +3,9 @@
 ## Chapter 1 Day 1
 
 Here are some answers.
+
+```cadence
+pub contract HelloWorld {
+
+}
+```
